@@ -3,3 +3,5 @@ function reverse(str) {
    let reversedLettersArray = lettersArray.reverse();
    return reversedLettersArray.join('');
 }
+
+console.log(reverse('Tanwi Kalson'));

@@ -5,3 +5,6 @@ function reverse(str) {
 function isPalindrome(str) {
    return reverse(str) === str;
 }
+
+console.log(reverse('Tanwi Kalson'));
+console.log(isPalindrome('EYE'));
